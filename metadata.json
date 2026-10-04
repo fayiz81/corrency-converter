@@ -1,0 +1,6 @@
+{
+  "name": "Currency Converter",
+  "description": "Convert amounts between currencies using live exchange rates powered by Frankfurter API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
